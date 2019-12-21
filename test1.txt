@@ -1,0 +1,15 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 48FA-8A38
+
+ Directory of C:\Users\jsbvk\Desktop\Delete\HelloWorld
+
+12/21/2019  12:35 PM    <DIR>          .
+12/21/2019  12:35 PM    <DIR>          ..
+12/21/2019  12:35 PM    <DIR>          .idea
+12/21/2019  12:28 PM                81 HelloWorld.iml
+12/21/2019  12:28 PM               433 pom.xml
+12/21/2019  12:28 PM    <DIR>          src
+12/21/2019  12:29 PM    <DIR>          target
+12/21/2019  12:35 PM                 0 test1.txt
+               3 File(s)            514 bytes
+               5 Dir(s)  15,037,853,696 bytes free
